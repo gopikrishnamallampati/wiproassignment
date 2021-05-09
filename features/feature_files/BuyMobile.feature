@@ -1,4 +1,4 @@
-Feature: Gomo Buy a SIM Page check
+Feature: Buy a SIM Page check
 
   @Optus_shop
   Scenario Outline: Buy a SIM page for component validation
